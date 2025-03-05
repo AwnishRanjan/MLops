@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/319085031052407392
+creation_time: 1741169012736
+experiment_id: '319085031052407392'
+last_update_time: 1741169012736
+lifecycle_stage: active
+name: nyc_text_experiment

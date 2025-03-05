@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/494294755807505663/eb91810d8d92437bb7d36d3158021821/artifacts
+end_time: 1741168910238
+entry_point_name: ''
+experiment_id: '494294755807505663'
+lifecycle_stage: active
+run_id: eb91810d8d92437bb7d36d3158021821
+run_name: useful-koi-231
+run_uuid: eb91810d8d92437bb7d36d3158021821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741168903716
+status: 3
+tags: []
+user_id: codespace

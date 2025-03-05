@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops/mlruns/619725765819829608/9ed596253d18420bbe6f06d79a94a86b/artifacts
+end_time: 1741165778614
+entry_point_name: ''
+experiment_id: '619725765819829608'
+lifecycle_stage: active
+run_id: 9ed596253d18420bbe6f06d79a94a86b
+run_name: hilarious-gnat-502
+run_uuid: 9ed596253d18420bbe6f06d79a94a86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165775618
+status: 3
+tags: []
+user_id: codespace
